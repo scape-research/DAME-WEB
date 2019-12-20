@@ -1,0 +1,1 @@
+python3 -m TYY_extract_DAME_WEB --gpu-id '0' --network-path '../pre-trained/Res101_DAME.pth.tar' --whitening-path '../whitening/WEB_retrieval-SfM-120k.pth' --image-size 1024 --image-path '../images/big_ban.jpg' --multi_dilation False
